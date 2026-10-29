@@ -34,8 +34,8 @@ export default function FeaturedCompanies() {
       logo: "🍰",
     },
     {
-      name: "HealthyMart",
-      role: "Co-Founder & Full-Stack Developer",
+      name: "Healthy Mart",
+      role: "Founder & Full-Stack Developer",
       tagline: "Healthcare Commerce Platform",
       description: "Spearheaded health-conscious marketplace product design, inventory synchronization, ingredient analyzers, and merchant onboarding flow sheets.",
       color: "from-emerald-500/10 to-teal-500/10 hover:border-emerald-500/30",
