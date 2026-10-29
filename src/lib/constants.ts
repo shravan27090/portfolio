@@ -3,7 +3,6 @@ export const SITE_CONFIG = {
   title: 'Full-Stack Software Engineer | Frontend Developer | Product Builder',
   description: 'Building scalable web applications in fintech, healthcare, and e-commerce. Currently developing Healthy Mart and Skypay.',
   email: 'shravanboloor1@gmail.com',
-  phone: '+91-9483693865',
   location: 'Udupi, Karnataka, India',
   timezone: 'IST (UTC +5:30)',
   url: 'https://shravan.space',
